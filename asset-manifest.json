@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/arhamsarwar786/hostel.github.io/static/css/main.ef1e1562.css",
+    "main.js": "/arhamsarwar786/hostel.github.io/static/js/main.87bf1c64.js",
+    "static/js/787.bff9be08.chunk.js": "/arhamsarwar786/hostel.github.io/static/js/787.bff9be08.chunk.js",
+    "index.html": "/arhamsarwar786/hostel.github.io/index.html",
+    "main.ef1e1562.css.map": "/arhamsarwar786/hostel.github.io/static/css/main.ef1e1562.css.map",
+    "main.87bf1c64.js.map": "/arhamsarwar786/hostel.github.io/static/js/main.87bf1c64.js.map",
+    "787.bff9be08.chunk.js.map": "/arhamsarwar786/hostel.github.io/static/js/787.bff9be08.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef1e1562.css",
+    "static/js/main.87bf1c64.js"
+  ]
+}
